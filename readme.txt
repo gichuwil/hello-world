@@ -1,2 +1,3 @@
-Hello world.
-Howdy yall!
+*Hello world.
+----
+This is my first git. Excited.
